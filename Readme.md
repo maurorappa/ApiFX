@@ -3,7 +3,6 @@
 # APIFX - API Firewall for NginX
 
 
-
 ![logo](apifx.jpg)
 
 APIFX leverages NGINX features to provide a complete security solution using Auth Request Module.
